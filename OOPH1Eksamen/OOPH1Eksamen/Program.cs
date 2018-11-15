@@ -15,9 +15,6 @@ namespace OOPH1Eksamen
     class Program {
         public static void Main() {
             //Denne funktion kan du bruge til at teste din kode
-            I test = new I();
-
-            test.PrintM();
         }
     }
 
