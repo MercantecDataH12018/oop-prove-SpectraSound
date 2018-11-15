@@ -120,7 +120,7 @@ namespace OOPH1Eksamen
         public string text;
 
         public void PrintM(){
-            text = "Hello";
+            text = "";
             Console.WriteLine("Text is " + text.Length + "long");
         }
     }
